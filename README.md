@@ -29,3 +29,5 @@ Project is finished. It's just for learning.
 
 ## Room for Improvement
 This is such a simple project, you could go any way with it.
+
+Feel free to do whatever you want with the code :)
